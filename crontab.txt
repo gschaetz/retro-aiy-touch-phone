@@ -1,0 +1,1 @@
+@reboot sudo -u pi bash /home/pi/launcher.sh > /home/pi/logs/cronlog 2>&1
